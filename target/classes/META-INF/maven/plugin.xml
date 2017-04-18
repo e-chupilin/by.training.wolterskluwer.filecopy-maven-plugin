@@ -131,11 +131,5 @@ Call &lt;code&gt;mvn filecopy-maven-plugin:help -Ddetail=true -Dgoal=&amp;lt;goa
       <type>jar</type>
       <version>2.0</version>
     </dependency>
-    <dependency>
-      <groupId>org.codehaus.plexus</groupId>
-      <artifactId>plexus-utils</artifactId>
-      <type>jar</type>
-      <version>3.0.8</version>
-    </dependency>
   </dependencies>
 </plugin>
